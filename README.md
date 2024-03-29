@@ -8,4 +8,5 @@
 ![image 2](/Image/2.JPG)
 5) Edit file ```.env.contoh``` menjadi ```.env```
 6) Masukan ```RAPIDAPI_KEY``` dan ```Kode_REF``` Rug.ai kalian
-7) Jika sudah , buka console dan ke tik ```node index.js```
+7) Buka console dan ketik ```npm install```
+7) Jika sudah selesai ketik ```node index.js```

@@ -11,3 +11,5 @@
 7) Kode Ref contoh https://rug.ai/signup?ref=325314 ambil menjadi ```325314``` lalu di paste ke .env bagian ```Kode_REF```
 7) Buka console dan ketik ```npm install```
 7) Jika sudah selesai ketik ```node index.js```
+8) Enjoy 
+![enjoy](/Image/3.JPG)

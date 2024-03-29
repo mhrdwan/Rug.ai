@@ -8,5 +8,6 @@
 ![image 2](/Image/2.JPG)
 5) Edit file ```.env.contoh``` menjadi ```.env```
 6) Masukan ```RAPIDAPI_KEY``` dan ```Kode_REF``` Rug.ai kalian
+7) Kode Ref contoh https://rug.ai/signup?ref=325314 ambil menjadi ```325314``` lalu di paste ke .env bagian ```Kode_REF```
 7) Buka console dan ketik ```npm install```
 7) Jika sudah selesai ketik ```node index.js```
